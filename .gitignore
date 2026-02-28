@@ -1,0 +1,24 @@
+# Dataset (do not commit)
+dataset/
+datasets/
+**/dataset/
+**/datasets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.env
+.venv
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/

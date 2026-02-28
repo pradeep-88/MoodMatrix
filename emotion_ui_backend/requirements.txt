@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+deepface
+fer
+opencv-python
+nltk
+textblob
+tensorflow

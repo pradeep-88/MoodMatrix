@@ -6,3 +6,4 @@ opencv-python
 nltk
 textblob
 tensorflow>=2.15.0
+tf-keras

@@ -5,4 +5,4 @@ fer
 opencv-python
 nltk
 textblob
-tensorflow
+tensorflow>=2.15.0,<2.17

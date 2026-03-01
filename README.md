@@ -54,7 +54,6 @@ Emotion/
 │   ├── package.json
 │   ├── .env.example
 │   └── vite.config.js
-└── README.md                    # This file
 ```
 
 ---
@@ -225,8 +224,3 @@ npm install && npm run dev
 
 Then open **http://localhost:5173** in your browser.
 
----
-
-## License
-
-See repository or project license file if present.

@@ -1,4 +1,4 @@
-# Emotion-Driven UI
+# MoodMatrix
 
 A full-stack application that detects your mood from **live webcam** (facial emotion) and **text input** (sentiment analysis), then adapts the UI theme, music suggestions, and tracks mood history.
 
